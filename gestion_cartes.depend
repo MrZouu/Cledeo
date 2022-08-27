@@ -1,0 +1,336 @@
+# depslib dependency file v1.0
+1635845533 source:c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_cartes\gestion_cartes\cartes.cpp
+	"header.h"
+
+1635854844 c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_cartes\gestion_cartes\header.h
+	<iostream>
+	"cartes.h"
+	"personnages.h"
+	"armes.h"
+	"lieux.h"
+	"collection.h"
+
+1635846637 c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_cartes\gestion_cartes\cartes.h
+
+1635850210 c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_cartes\gestion_cartes\personnages.h
+
+1635846637 c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_cartes\gestion_cartes\armes.h
+
+1635846637 source:c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_cartes\gestion_cartes\main.cpp
+	"header.h"
+
+1635846637 source:c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_cartes\gestion_cartes\personnages.cpp
+	"header.h"
+
+1635846756 source:c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_cartes\gestion_cartes\armes.cpp
+	"header.h"
+
+1635846958 c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_cartes\gestion_cartes\lieux.h
+
+1635846958 source:c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_cartes\gestion_cartes\lieux.cpp
+	"header.h"
+
+1635855006 c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_cartes\gestion_cartes\collection.h
+	"header.h"
+
+1635855990 source:c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\gestion_carte1\gestion_cartes\armes.cpp
+	"header.h"
+
+1635856143 c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\gestion_carte1\gestion_cartes\header.h
+	<iostream>
+	"cartes.h"
+	"personnages.h"
+	"armes.h"
+	"lieux.h"
+	"collection.h"
+	<vector>
+
+1635855990 c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\gestion_carte1\gestion_cartes\cartes.h
+
+1635855990 c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\gestion_carte1\gestion_cartes\personnages.h
+
+1635855990 c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\gestion_carte1\gestion_cartes\armes.h
+
+1635855990 c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\gestion_carte1\gestion_cartes\lieux.h
+
+1635856341 c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\gestion_carte1\gestion_cartes\collection.h
+	"header.h"
+	<vector>
+
+1635855990 source:c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\gestion_carte1\gestion_cartes\cartes.cpp
+	"header.h"
+
+1635855990 source:c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\gestion_carte1\gestion_cartes\lieux.cpp
+	"header.h"
+
+1635857065 source:c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\gestion_carte1\gestion_cartes\main.cpp
+	"header.h"
+
+1635855990 source:c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\gestion_carte1\gestion_cartes\personnages.cpp
+	"header.h"
+
+1635855990 source:c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_carte1\gestion_cartes\armes.cpp
+	"header.h"
+
+1636196568 c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_carte1\gestion_cartes\header.h
+	<iostream>
+	"cartes.h"
+	"personnages.h"
+	"armes.h"
+	"lieux.h"
+	"collection.h"
+	"joueur.h"
+	<vector>
+	<stack>
+	<algorithm>
+
+1636042559 c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_carte1\gestion_cartes\cartes.h
+
+1635948293 c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_carte1\gestion_cartes\personnages.h
+
+1635948293 c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_carte1\gestion_cartes\armes.h
+
+1635948293 c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_carte1\gestion_cartes\lieux.h
+
+1636473875 c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_carte1\gestion_cartes\collection.h
+	"header.h"
+	<vector>
+	<stack>
+
+1636042538 source:c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_carte1\gestion_cartes\cartes.cpp
+	"header.h"
+
+1636474495 source:c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_carte1\gestion_cartes\collection.cpp
+	"header.h"
+
+1635855990 source:c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_carte1\gestion_cartes\lieux.cpp
+	"header.h"
+
+1635855990 source:c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_carte1\gestion_cartes\personnages.cpp
+	"header.h"
+
+1636474680 source:c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_carte1\gestion_cartes\main.cpp
+	"header.h"
+
+1636474188 source:c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_carte1\gestion_cartes\joueur.cpp
+	"header.h"
+	<stack>
+
+1636477515 c:\users\anjali\documents\ece\cours\ing2\informatique\ex_cours_codeblocks\projet_semestre1\gestion_carte1\gestion_cartes\joueur.h
+	<stack>
+
+1637929234 source:c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\armes.cpp
+	"header.h"
+
+1637877194 c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\header.h
+	<typeinfo>
+	<iostream>
+	<vector>
+	<stack>
+	<algorithm>
+	<stdio.h>
+	<time.h>
+	<memory>
+	"windows.h"
+	"Couleur.h"
+	"conio2.h"
+	"cartes.h"
+	"personnages.h"
+	"armes.h"
+	"lieux.h"
+	"collection.h"
+	"Compte.h"
+	"joueur.h"
+	"Plateau.h"
+	"Partie.h"
+	"De.h"
+
+1637928341 c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\cartes.h
+
+1637928341 c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\personnages.h
+
+1637928341 c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\armes.h
+
+1637928341 c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\lieux.h
+
+1637928496 c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\collection.h
+	"header.h"
+	<vector>
+	<stack>
+
+1637929234 c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\joueur.h
+	"header.h"
+	"Couleur.h"
+
+1637928341 source:c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\cartes.cpp
+	"header.h"
+
+1637937866 source:c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\collection.cpp
+	"header.h"
+
+1637933968 source:c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\joueur.cpp
+	"header.h"
+	<stack>
+
+1637929234 source:c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\lieux.cpp
+	"header.h"
+
+1637795237 source:c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\main.cpp
+	"header.h"
+
+1637928341 source:c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\personnages.cpp
+	"header.h"
+
+1637013222 c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\include\partie.h
+	"header.h"
+
+1637932166 c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\partie.h
+	"header.h"
+
+1637937695 source:c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\partie.cpp
+	"Partie.h"
+
+1637929245 c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\de.h
+	"header.h"
+
+1637929234 source:c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\de.cpp
+	"header.h"
+
+1637932166 c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\plateau.h
+	"header.h"
+
+1637932166 source:c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\plateau.cpp
+	"header.h"
+
+1386356978 c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\conio2.h
+	<conio.h>
+	<windows.h>
+
+1386437076 source:c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1637875401 c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\couleur.h
+	<string>
+
+1637932166 source:c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\couleur.cpp
+	"Couleur.h"
+
+1637879356 c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\compte.h
+	"header.h"
+
+1637880612 source:c:\users\leola\onedrive\documents\ece paris\ing2\informatique\gestion_cartes\compte.cpp
+	<sys/stat.h>
+	<unistd.h>
+	<fstream>
+	"header.h"
+
+1637932836 source:c:\users\lor3n\desktop\cledeo\armes.cpp
+	"header.h"
+
+1637880796 c:\users\lor3n\desktop\cledeo\header.h
+	<typeinfo>
+	<iostream>
+	<vector>
+	<stack>
+	<algorithm>
+	<stdio.h>
+	<time.h>
+	<memory>
+	"windows.h"
+	"Couleur.h"
+	"conio2.h"
+	"cartes.h"
+	"personnages.h"
+	"armes.h"
+	"lieux.h"
+	"collection.h"
+	"Compte.h"
+	"joueur.h"
+	"Plateau.h"
+	"Partie.h"
+	"De.h"
+
+1637879002 c:\users\lor3n\desktop\cledeo\couleur.h
+	<string>
+
+1386360578 c:\users\lor3n\desktop\cledeo\conio2.h
+	<conio.h>
+	<windows.h>
+
+1637931942 c:\users\lor3n\desktop\cledeo\cartes.h
+
+1637931942 c:\users\lor3n\desktop\cledeo\personnages.h
+
+1637931942 c:\users\lor3n\desktop\cledeo\armes.h
+
+1637931942 c:\users\lor3n\desktop\cledeo\lieux.h
+
+1637932098 c:\users\lor3n\desktop\cledeo\collection.h
+	"header.h"
+	<vector>
+	<stack>
+
+1637882958 c:\users\lor3n\desktop\cledeo\compte.h
+	"header.h"
+
+1637932836 c:\users\lor3n\desktop\cledeo\joueur.h
+	"header.h"
+	"Couleur.h"
+
+1637935768 c:\users\lor3n\desktop\cledeo\plateau.h
+	"header.h"
+
+1637935768 c:\users\lor3n\desktop\cledeo\partie.h
+	"header.h"
+
+1637932846 c:\users\lor3n\desktop\cledeo\de.h
+	"header.h"
+
+1637931942 source:c:\users\lor3n\desktop\cledeo\cartes.cpp
+	"header.h"
+
+1637941468 source:c:\users\lor3n\desktop\cledeo\collection.cpp
+	"header.h"
+
+1637884214 source:c:\users\lor3n\desktop\cledeo\compte.cpp
+	<sys/stat.h>
+	<unistd.h>
+	<fstream>
+	"header.h"
+
+1386440676 source:c:\users\lor3n\desktop\cledeo\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1637935768 source:c:\users\lor3n\desktop\cledeo\couleur.cpp
+	"Couleur.h"
+
+1637932836 source:c:\users\lor3n\desktop\cledeo\de.cpp
+	"header.h"
+
+1637937570 source:c:\users\lor3n\desktop\cledeo\joueur.cpp
+	"header.h"
+	<stack>
+
+1637932836 source:c:\users\lor3n\desktop\cledeo\lieux.cpp
+	"header.h"
+
+1637798838 source:c:\users\lor3n\desktop\cledeo\main.cpp
+	"header.h"
+
+1637941296 source:c:\users\lor3n\desktop\cledeo\partie.cpp
+	"Partie.h"
+
+1637931942 source:c:\users\lor3n\desktop\cledeo\personnages.cpp
+	"header.h"
+
+1637935768 source:c:\users\lor3n\desktop\cledeo\plateau.cpp
+	"header.h"
+
