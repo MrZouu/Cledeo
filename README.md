@@ -28,10 +28,13 @@ Cluedo is a board game where the goal is to solve, by deduction, the enigma of t
 * Interactions are on the console
 
 Selections are made using the arrow keys
+
 To confirm use the space key
+
 To move your character, use the arrow keys
 
 The die gives you a number of moves
+
 When you enter a room, you can make an assumption
 
 #  Credits
