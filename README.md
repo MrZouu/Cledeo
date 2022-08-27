@@ -35,6 +35,6 @@ The die gives you a number of moves
 When you enter a room, you can make an assumption
 
 #  Credits
-* [**MrZouu**](https://github.com/MrZouu) : Co-creator of the project.
+* [**MrZouu**](https://github.com/MrZouu) : Co-creator of the project. 
 * **Léo La Fornara** : Co-creator of the project.
 * **Lancelot de Montfort** : Co-creator of the project.
