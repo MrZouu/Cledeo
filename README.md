@@ -3,6 +3,8 @@ A simplified console version of the board game Cluedo
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-0052cf)
 
+***Project date : 2021***
+
 ##  Description
 Cluedo is a board game where the goal is to solve, by deduction, the enigma of this crime. To win you have to find the murderer, the weapon used and the place of the murder
 
