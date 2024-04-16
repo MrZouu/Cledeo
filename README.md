@@ -26,20 +26,29 @@ Cluedo is a board game where the goal is to solve, by deduction, the enigma of t
 * Roll a die
 * Move your character in the asylum
 
-##  User guide
-* Interactions are on the console
+# User guide
+**Interactions are on the terminal**
 
-Selections are made using the arrow keys
+* Selections are made using the arrow keys
 
-To confirm use the space key
+* To confirm use the space key
 
-To move your character, use the arrow keys
+* To move your character, use the arrow keys
 
-The die gives you a number of moves
+* The die gives you a number of moves
 
-When you enter a room, you can make an assumption
+* When you enter a room, you can make an assumption
+
+# Display
+I use an ANSI table to display the game rooms on the terminal. 
+Each symbol is associated with specific format codes, making the visual display more attractive and easier for players to understand.
+
+<p align="center"><b>ANSI table</b></p>
+<p align="center">
+	<img src="images/ANSI_table.png" width="400">
+</p>
 
 #  Credits
-* [**MrZouu**](https://github.com/MrZouu) : Co-creator of the project. 
+* [**Lorenzo**](https://github.com/MrZouu) : Co-creator of the project. 
 * **Léo La Fornara** : Co-creator of the project.
 * **Julie Belier** : Co-creator of the project.
