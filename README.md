@@ -11,7 +11,7 @@ Cluedo is a board game where the goal is to solve, by deduction, the enigma of t
 For our version of Cludeo, we've chosen the ``Batman universe``, here set in Arkham Asylum, where characters and weapons are references to the license.
 
 <p align="center">
-	<img src="images/cluedo.png" width="750">
+	<img src="images/cluedo.jpg" width="600">
 </p>
 
 ⚠️This project is the result of a common work, made for school with a deadline and I chose to leave it as it was at the time of submission
